@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="PionnerBot/dll/64Bit"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="dll/64Bit">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files (x86)/V-REP3/V-REP_PRO_EDU/programming/projetoEstagio2/dll/64Bit"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Raiz/lib/jFuzzyLogic.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
